@@ -9,7 +9,7 @@ public class Main {
             VisualizaConsola vc = new VisualizaConsola();
             vc.visualizar("Hola buenas");
             VisualizaVentana vv = new VisualizaVentana();
-            vv.visualizar(JOptionPane.showInputDialog("Hola buenaaasss"));
+            vv.visualizar(JOptionPane.showInputDialog("Hola buenas"));
     }
 
 }
